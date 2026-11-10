@@ -27,12 +27,9 @@ The HR Employee Analysis project focuses on analyzing employee data using Micros
 2. Total Monthly Income
 3. Average Monthly Income
 4. Average Age
-5. Average Years at Company
-6. Total Employees Left
-7. Attrition Rate
-8. Average Job Satisfaction
-9. Total Training Hours
-10. Average Performance Rating
+5. Total Employees Left
+6. Attrition Rate
+7. Total Training Hours
 
 📈 PivotTable Analysis
 
