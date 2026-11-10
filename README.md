@@ -1,4 +1,5 @@
 HR Employee Analysis Dashboard
+![HR Employee Analysis Dashboard](HR-dashboard.png)
 
 📌 Project Overview
 
